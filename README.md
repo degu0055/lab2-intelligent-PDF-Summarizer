@@ -49,5 +49,4 @@ You also need to set up a file called **local.settings.json** with your Azure se
 
 ## Video Demo
 
-Watch the demo video here: [Demo Video Link](https://example.com/demo-video)  
-*(Replace the link with the actual video URL)*
+Watch the demo video here: [Demo Video Link](https://drive.google.com/file/d/1rWNZP-3pJOjBIsDDh9_2CDi3VH-f8-Bd/view?usp=sharing)  
