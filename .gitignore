@@ -1,1 +1,10 @@
 local.settings.json
+azurite/__azurite_db_blob__.json
+azurite/__azurite_db_table__.json
+azurite/debug.log
+.DS_Store
+azurite/__azurite_db_blob__.json
+azurite/__azurite_db_blob__.json
+azurite/__azurite_db_blob_extent__.json
+azurite/__azurite_db_table__.json
+azurite/debug.log
