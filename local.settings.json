@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "BLOB_STORAGE_ENDPOINT": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=romeojune182025;AccountKey=Fp3L4Ib4HK8LdigeGP6YG4bK8K5pSjXgs4iZ2j8VCLpQ8njlOm+0U8tZQU6i1O+fP1Hbd2eeT9PE+AStZGT9Qw==;BlobEndpoint=https://romeojune182025.blob.core.windows.net/;FileEndpoint=https://romeojune182025.file.core.windows.net/;QueueEndpoint=https://romeojune182025.queue.core.windows.net/;TableEndpoint=https://romeojune182025.table.core.windows.net/",
+    "COGNITIVE_SERVICES_ENDPOINT": "https://canadacentral.api.cognitive.microsoft.com/",
+    "COGNITIVE_SERVICES_API_KEY": "6a0b6b60ce014547a4802b127eb867fd",
+    "OPENAI_API_KEY": "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",
+    "CHAT_MODEL_DEPLOYMENT_NAME": "gpt-3.5-turbo"
+  }
+}
