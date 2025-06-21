@@ -1,4 +1,3 @@
-
 # Intelligent PDF Summarizer
 
 This app shows how to use Azure Durable Functions to make smart apps that process documents like PDFs. It works step by step because the output from one step goes to the next. This is important so the app does not repeat expensive calls if there is a problem.
@@ -50,3 +49,9 @@ You also need to set up a file called **local.settings.json** with your Azure se
 ## Video Demo
 
 Watch the demo video here: [Demo Video Link](https://drive.google.com/file/d/1rWNZP-3pJOjBIsDDh9_2CDi3VH-f8-Bd/view?usp=sharing)  
+
+---
+
+## Additional Note
+
+**Due to a quota limitation on my student Azure subscription, I used OpenAI services outside Azure to complete this assignment.**
